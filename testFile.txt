@@ -14,3 +14,7 @@ Added line in Cbranch
 Another line in Cbranch
 3rd line in Cbranch
 4th line in Cbranch
+
+---
+
+Rebase Interactive - Edit
