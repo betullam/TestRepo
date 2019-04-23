@@ -1,0 +1,5 @@
+Test file for rebasing.
+Commit 1
+Commit 2
+Commit 3
+Rebase this commit
